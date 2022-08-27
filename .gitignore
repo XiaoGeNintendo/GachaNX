@@ -1,0 +1,7 @@
+build/
+out/
+release/
+py-process/test/*.png
+py-process/chen/
+*.txt
+.vscode/
